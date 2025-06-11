@@ -20,3 +20,4 @@
       Link: https://bdragon1727.itch.io/
     + Tile Map Mossy-cavern của https://maaot.itch.io/
     + Một vài skill effect từ vfx-pack của https://combosmooth.itch.io/
+    + Một vài Icon từ asset rpg-ability-icons của https://frosty-rabbid.itch.io/
